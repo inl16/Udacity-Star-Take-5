@@ -1,0 +1,17 @@
+{
+  "name": "udacity-star-take-4-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openzeppelin-solidity": "2.3",
+    "truffle": "^5.0.2",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
